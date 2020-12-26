@@ -17,7 +17,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #1ca9e3;
+  color: midnightblue;
 }
 
 a img {
@@ -331,7 +331,7 @@ li {
 .rate:after {
   overflow: hidden;
   white-space: nowrap;
-  color: #f181b4;
+  color: midnightblue;
 }
 
 .rate1:after {
